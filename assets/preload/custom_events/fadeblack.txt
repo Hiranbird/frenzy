@@ -1,0 +1,5 @@
+value1 = alpha
+value2 = tiempo
+
+si quieres desvanecimiento instantaneo no uses 0 
+usa 0.01
