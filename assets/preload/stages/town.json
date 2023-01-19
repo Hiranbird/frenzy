@@ -1,0 +1,12 @@
+{
+	"directory": "weekm",
+	"defaultZoom": 0.6,
+	"isPixelStage": false,
+
+	"boyfriend": [450, 525],
+	"girlfriend": [175, 350],
+	"opponent": [-100, 500],
+
+
+	"camera_speed": 0.6
+}
