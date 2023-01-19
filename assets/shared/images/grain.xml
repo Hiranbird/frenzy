@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="grain.png">
+	<!-- Created with Adobe Animate version 19.2.1.408 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+  <SubTexture name="grain00001" x="0" y="0"  width="1920" height="1079" frameX="-0" frameY="-0" frameWidth="1920" frameHeight="1079"/>
+  <SubTexture name="grain00001" x="0" y="0"  width="1920" height="1079" frameX="-0" frameY="-0" frameWidth="1920" frameHeight="1079"/>
+  <SubTexture name="grain00002" x="0" y="1079"  width="1920" height="1079" frameX="-0" frameY="-0" frameWidth="1920" frameHeight="1079"/>
+  <SubTexture name="grain00002" x="0" y="1079"  width="1920" height="1079" frameX="-0" frameY="-0" frameWidth="1920" frameHeight="1079"/>
+  <SubTexture name="grain00003" x="0" y="2158"  width="1920" height="1079" frameX="-0" frameY="-0" frameWidth="1920" frameHeight="1079"/>
+  <SubTexture name="grain00003" x="0" y="2158"  width="1920" height="1079" frameX="-0" frameY="-0" frameWidth="1920" frameHeight="1079"/>
+  <SubTexture name="grain00004" x="1920" y="0"  width="1920" height="1079" frameX="-0" frameY="-0" frameWidth="1920" frameHeight="1079"/>
+  <SubTexture name="grain00004" x="1920" y="0"  width="1920" height="1079" frameX="-0" frameY="-0" frameWidth="1920" frameHeight="1079"/>
+  <SubTexture name="grain00004" x="1920" y="0"  width="1920" height="1079" frameX="-0" frameY="-0" frameWidth="1920" frameHeight="1079"/>
+  <SubTexture name="grain00004" x="1920" y="0"  width="1920" height="1079" frameX="-0" frameY="-0" frameWidth="1920" frameHeight="1079"/>
+  <SubTexture name="grain00005" x="1920" y="1079"  width="1920" height="1079" frameX="-0" frameY="-0" frameWidth="1920" frameHeight="1079"/>
+  <SubTexture name="grain00005" x="1920" y="1079"  width="1920" height="1079" frameX="-0" frameY="-0" frameWidth="1920" frameHeight="1079"/>
+  <SubTexture name="grain00006" x="1920" y="2158"  width="1920" height="1079" frameX="-0" frameY="-0" frameWidth="1920" frameHeight="1079"/>
+  <SubTexture name="grain00006" x="1920" y="2158"  width="1920" height="1079" frameX="-0" frameY="-0" frameWidth="1920" frameHeight="1079"/>
+</TextureAtlas>
