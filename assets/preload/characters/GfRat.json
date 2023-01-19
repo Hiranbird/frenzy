@@ -1,0 +1,34 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				160,
+				20
+			],
+			"indices": [],
+			"fps": 20,
+			"anim": "idle",
+			"loop": false,
+			"name": "Idle Insano"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/RatGF",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "gf",
+	"flip_x": false,
+	"healthbar_colors": [
+		165,
+		0,
+		77
+	],
+	"camera_position": [
+		-320,
+		40
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

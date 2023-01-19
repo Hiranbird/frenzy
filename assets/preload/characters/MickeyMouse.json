@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				171,
+				22
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				147,
+				37
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				123,
+				44
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				67,
+				16
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "right",
+			"indices": []
+		},
+		{
+			"offsets": [
+				160,
+				20
+			],
+			"indices": [],
+			"fps": 26,
+			"anim": "idle",
+			"loop": false,
+			"name": "idle"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Mickey Mouse",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "Mickey Mouse",
+	"flip_x": false,
+	"healthbar_colors": [
+		188,
+		188,
+		188
+	],
+	"camera_position": [
+		30,
+		-30
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

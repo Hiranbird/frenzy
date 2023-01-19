@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				25,
+				-50
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "BFMOUSE_Down"
+		},
+		{
+			"offsets": [
+				37,
+				20
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "BFMOUSE_Up"
+		},
+		{
+			"offsets": [
+				11,
+				-48
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "BFMOUSE_Right"
+		},
+		{
+			"offsets": [
+				30,
+				-51
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "BFMOUSE_Left"
+		},
+		{
+			"offsets": [
+				20,
+				-50
+			],
+			"indices": [],
+			"fps": 26,
+			"anim": "idle",
+			"loop": false,
+			"name": "BFMOUSE_Idle"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Bf Mouse",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "Boyfriend",
+	"flip_x": true,
+	"healthbar_colors": [
+		135,
+		135,
+		135
+	],
+	"camera_position": [
+		170,
+		30
+	],
+	"sing_duration": 6.1,
+	"scale": 0.9
+}
